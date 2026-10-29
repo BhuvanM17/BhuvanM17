@@ -8,6 +8,8 @@ My public projects explore document retrieval, AI agents, structured data workfl
 
 **Focus: AI engineering, generative AI, and Python backend development.**
 
+[Portfolio website](https://bhuvan-portfolio-five.vercel.app) · [GitHub projects](https://github.com/BhuvanM17?tab=repositories)
+
 ## What I work with
 
 | Area | Tools and concepts |
@@ -22,6 +24,8 @@ My public projects explore document retrieval, AI agents, structured data workfl
 | Project | Focus |
 |---|---|
 | **[AI TaskHub](https://github.com/BhuvanM17/ai-taskhub)** | FastAPI job API with database-backed dispatch, Redis workers, idempotency, and an optional LLM adapter. |
+| **[RetrievalBench](https://github.com/BhuvanM17/retrievalbench)** | Offline RAG retrieval evaluation with Recall@K, MRR, nDCG, and a BM25 baseline. |
+| **[GridQuest](https://github.com/BhuvanM17/gridquest-python)** | A Pygame maze escape game with seeded procedural generation, BFS pursuit, and tested game rules. |
 | **[DOC RAG](https://github.com/BhuvanM17/DOC-RAG)** | Document question answering with FastAPI, Gemini, Pinecone, and a React interface. |
 | **[DailyOps Agent](https://github.com/BhuvanM17/personal_assistant_using_langgraph)** | LangGraph workflows with tools, persistent memory, and approval steps. |
 | **[AI Invoice Assistant](https://github.com/BhuvanM17/AI-Invoice-Assistant-Pro)** | Conversational invoice workflows, structured data validation, and PDF generation. |
