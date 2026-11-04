@@ -1,37 +1,53 @@
-![Bhuvan M — Python Backend & Applied AI](media/header.svg)
+<p align="center">
+  <img src="media/header.svg" alt="Bhuvan M — Python backend and generative AI engineer" width="100%" />
+</p>
 
-# Hi, I'm Bhuvan
+<p align="center">
+  <a href="https://bhuvan-portfolio-five.vercel.app"><strong>Portfolio</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/BhuvanM17?tab=repositories"><strong>Explore my code</strong></a>
+</p>
+
+## Hey, I'm Bhuvan 👋
 
 I build Python APIs and AI applications, with a focus on useful workflows and clear backend design.
 
-My public projects explore document retrieval, AI agents, structured data workflows, and background text processing.
+My projects explore document retrieval, AI agents, structured data workflows, and background text processing.
 
-**Focus: AI engineering, generative AI, and Python backend development.**
+## My toolkit
 
-[Portfolio website](https://bhuvan-portfolio-five.vercel.app) · [GitHub projects](https://github.com/BhuvanM17?tab=repositories)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,java,js,react,mysql,sqlite&amp;perline=8" alt="Python, FastAPI, Flask, Java, JavaScript, React, MySQL, SQLite" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,firebase,postman,vscode,vercel&amp;perline=8" alt="Git, GitHub, GitLab, AWS, Firebase, Postman, VS Code, Vercel" />
+</p>
 
-## What I work with
+<p align="center">
+  <sub>Python · FastAPI · Flask · Java · JavaScript · React · MySQL · SQLite<br />
+  Git · GitHub · GitLab · AWS · Firebase · Postman · VS Code · Vercel</sub>
+</p>
 
-| Area | Tools and concepts |
-|---|---|
-| Python backend | Python, FastAPI, REST APIs, SQL, Pydantic, authentication |
-| Applied AI | LLM integration, prompt engineering, RAG, embeddings |
-| Agent workflows | LangChain, LangGraph, tool calling |
-| Data and development | ChromaDB, MySQL, SQLite, Git, AWS |
+**AI workflows:** LangChain · LangGraph · Gemini · RAG · embeddings · ChromaDB  
+**Data basics:** pandas · NumPy · scikit-learn
 
-## Selected projects
+## Selected work
 
-| Project | Focus |
-|---|---|
-| **[AI TaskHub](https://github.com/BhuvanM17/ai-taskhub)** | FastAPI job API with database-backed dispatch, Redis workers, idempotency, and an optional LLM adapter. |
-| **[RetrievalBench](https://github.com/BhuvanM17/retrievalbench)** | Offline RAG retrieval evaluation with Recall@K, MRR, nDCG, and a BM25 baseline. |
-| **[GridQuest](https://github.com/BhuvanM17/gridquest-python)** | A Pygame maze escape game with seeded procedural generation, BFS pursuit, and tested game rules. |
-| **[DOC RAG](https://github.com/BhuvanM17/DOC-RAG)** | Document question answering with FastAPI, Gemini, Pinecone, and a React interface. |
+| Project | What it's about |
+| :--- | :--- |
+| **[InterviewGraph](https://github.com/BhuvanM17/interviewgraph)** | Interview practice with LangGraph, LangChain, FastAPI, and SQLite. Includes demo keyword scoring and optional Gemini integration. |
+| **[Weekend Payana ↗](https://www.weekendpayana.com)** | Trek discovery and weekend travel booking website. |
+| **[AI TaskHub](https://github.com/BhuvanM17/ai-taskhub)** | A FastAPI job API exploring database-backed dispatch, Redis workers, idempotency, and an optional LLM adapter. |
+| **[RetrievalBench](https://github.com/BhuvanM17/retrievalbench)** | Offline retrieval evaluation for RAG, with Recall@K, MRR, nDCG, and a BM25 baseline. |
+| **[DOC RAG](https://github.com/BhuvanM17/DOC-RAG)** | Document question answering with FastAPI, Gemini, Pinecone, and React. |
 | **[DailyOps Agent](https://github.com/BhuvanM17/personal_assistant_using_langgraph)** | LangGraph workflows with tools, persistent memory, and approval steps. |
-| **[AI Invoice Assistant](https://github.com/BhuvanM17/AI-Invoice-Assistant-Pro)** | Conversational invoice workflows, structured data validation, and PDF generation. |
 
-## Current focus
+More experiments: **[AI Invoice Assistant](https://github.com/BhuvanM17/AI-Invoice-Assistant-Pro)** · **[GridQuest](https://github.com/BhuvanM17/gridquest-python)**
 
-Building stronger Python backends around AI: reliable job processing, access control, tests, and practical error handling. I care about understanding the tradeoffs as much as getting the demo working.
+## What I'm working toward
 
-[Browse my repositories](https://github.com/BhuvanM17?tab=repositories) · [View my portfolio source](https://github.com/BhuvanM17/bhuvan-portfolio)
+Stronger Python backends for AI applications: clearer APIs, reliable background jobs, access control, and better error handling. I like understanding the tradeoffs behind a working demo.
+
+---
+
+Explore the work. **[Visit my portfolio.](https://bhuvan-portfolio-five.vercel.app)**
+
